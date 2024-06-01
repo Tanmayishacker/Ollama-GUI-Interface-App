@@ -2,9 +2,10 @@
 
 #include <wx/wx.h>
 
-class cMain
+class cMain : public wxFrame
 {
-
+public:
+	cMain(const wxString& title);
 
 
 };

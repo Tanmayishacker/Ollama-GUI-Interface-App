@@ -18,9 +18,15 @@
     <ClInclude Include="includes\cMain.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="includes\App.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source\cMain.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\App.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
