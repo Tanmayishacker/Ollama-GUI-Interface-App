@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClInclude Include="includes\App.h" />
     <ClInclude Include="includes\cMain.h" />
+    <ClInclude Include="includes\MethodsDeclared.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source\App.cpp" />
