@@ -1,5 +1,7 @@
-#include <wx/wx.h>
 #include "cMain.h"
+#include <wx/wx.h>
+#include <wx/file.h>
+#include <wx/textfile.h>
 #include "MethodsDeclared.h"
 
 cMain::cMain(const wxString& title) :wxFrame(nullptr,wxID_ANY,title)
@@ -37,7 +39,7 @@ void ModelSelector(wxPanel* panel_0)
 }
 
 
-void ReadFile(const wxString& filepath) 
+void ReadFile(const wxString& filepath)
 {
-
+	
 }
