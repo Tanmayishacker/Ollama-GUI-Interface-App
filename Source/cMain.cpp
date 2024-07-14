@@ -1,4 +1,5 @@
 #include "cMain.h"
+#include <curl/curl.h>
 #include <wx/wx.h>
 #include <wx/file.h>
 #include <wx/textfile.h>
