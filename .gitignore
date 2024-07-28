@@ -359,3 +359,5 @@ MigrationBackup/
 FodyWeavers.xsd
 Ideas.txt]
 Ideas.txt
+/Debug
+/Ollama-G.03600710/Debug
