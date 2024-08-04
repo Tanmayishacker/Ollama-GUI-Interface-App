@@ -28,6 +28,7 @@ void RModelListArray(wxArrayString& m_modelListArray)
 	else
 	{
 		wxMessageBox("You Don't have Ollama Installed OR the Ollama is not running in the background", "Error");
+		
 	}
 
 }
